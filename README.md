@@ -20,6 +20,8 @@ Complete the following tasks:
 
 [Crypto Sentiment](crypto_sentiment.ipynb)
 
+[Crypto Sentiment PDF](https://dbogatic.github.io/nlp-homework/crypto_sentiment.html)
+
 ---
 
 ### Instructions
